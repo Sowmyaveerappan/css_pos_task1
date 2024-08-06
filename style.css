@@ -1,0 +1,15 @@
+.box1{
+    width: 400px;
+    background-color: rgb(78, 147, 59);
+    height: 200px;
+    position: relative;
+}
+.box2{
+    width: 400px;
+    background-color: rgb(198, 97, 171);
+    height: 200px;
+    position: relative;
+    top: 25px;
+    left: 25px;
+    padding: 10px;
+}
